@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeocodeResponse>
+ <status>OK</status>
+ <result>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <type>university</type>
+  <formatted_address>3001 S Federal Blvd, Denver, CO 80236, USA</formatted_address>
+  <address_component>
+   <long_name>3001</long_name>
+   <short_name>3001</short_name>
+   <type>street_number</type>
+  </address_component>
+  <address_component>
+   <long_name>South Federal Boulevard</long_name>
+   <short_name>S Federal Blvd</short_name>
+   <type>route</type>
+  </address_component>
+  <address_component>
+   <long_name>Harvey Park South</long_name>
+   <short_name>Harvey Park South</short_name>
+   <type>neighborhood</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Denver</long_name>
+   <short_name>Denver</short_name>
+   <type>locality</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Denver County</long_name>
+   <short_name>Denver County</short_name>
+   <type>administrative_area_level_2</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Colorado</long_name>
+   <short_name>CO</short_name>
+   <type>administrative_area_level_1</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>United States</long_name>
+   <short_name>US</short_name>
+   <type>country</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>80236</long_name>
+   <short_name>80236</short_name>
+   <type>postal_code</type>
+  </address_component>
+  <address_component>
+   <long_name>2711</long_name>
+   <short_name>2711</short_name>
+   <type>postal_code_suffix</type>
+  </address_component>
+  <geometry>
+   <location>
+    <lat>39.6625188</lat>
+    <lng>-105.0281274</lng>
+   </location>
+   <location_type>ROOFTOP</location_type>
+   <viewport>
+    <southwest>
+     <lat>39.6611698</lat>
+     <lng>-105.0294764</lng>
+    </southwest>
+    <northeast>
+     <lat>39.6638678</lat>
+     <lng>-105.0267784</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <place_id>ChIJ0V94rPl_bIcRqLdrlbjFMDk</place_id>
+  <plus_code>
+   <global_code>85FPMX7C+2P</global_code>
+   <compound_code>MX7C+2P Denver, Colorado, United States</compound_code>
+  </plus_code>
+  <access_points>
+   <location>
+    <latitude>39.6627570</latitude>
+    <longitude>-105.0286794</longitude>
+   </location>
+   <place_id>ChIJMW1Gcvd_bIcRDMFnAXHO58Y</place_id>
+   <access_point_type>TYPE_SEGMENT</access_point_type>
+   <segment_position>1.0000000</segment_position>
+   <location_on_segment>
+    <latitude>39.6628199</latitude>
+    <longitude>-105.0286748</longitude>
+   </location_on_segment>
+  </access_points>
+ </result>
+</GeocodeResponse>
